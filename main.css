@@ -2,15 +2,16 @@
   margin: 0;
   padding: 0;
 }
- body{
+body{
   font-family: sans-serif;
 }
 .banner-text{
-  width:100%;
-  position:absolute;
+  width: 100%
+  position: absolute;
 }
+
 .banner-text ul{
-  height: 50px;
+  height: 50px
   float: right;
 }
 .banner-text ul li{
