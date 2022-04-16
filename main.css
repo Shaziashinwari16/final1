@@ -1,12 +1,12 @@
 *{
-  margin: 0:
-  padding: 0:
+  margin: 0;
+  padding: 0;
 }
 body{
  font-family: sans-serif;
 }
 .banner-text{
-  width:100%
+  width:100%;
   position:absolute;
 }
 .banner-text ul{
@@ -18,19 +18,12 @@ body{
   display: inline-block;
   padding: 40px 15px;
   text-transform: uppercase;
-  color: 000;
+  color: #000;
   font-size: 20px;
 }
-.banner.text h2{
+.banner-text h2{
   text-align: center;
-  color: 000;
+  color: #000;
   font-size: 50px
   margin-top: 20%;
   float: center;
-}
-
-.animation{
-  background: linear-gradient(to left,green,#66ccff);
-  width: 100%
-  height: 100vh;
-}
